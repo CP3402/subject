@@ -1,19 +1,19 @@
-# CP3402 Learning Journal Template
+# CP3402 Learning Journal - Your Name
 
-# Week n
+## Week n
 
-# Learning Activities & Resources
-
-...
-
-# Estimated Hours
+## Learning Activities & Resources
 
 ...
 
-# Content Insights
+## Estimated Hours
 
 ...
 
-# Career/Employability/Learning Insights
+## Content Insights
+
+...
+
+## Career/Employability/Learning Insights
 
 ...

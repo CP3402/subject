@@ -6,7 +6,7 @@
 
 ...
 
-## Estimated Hours
+## Estimated Hours of Explicit Learning Activity
 
 ...
 
